@@ -17,7 +17,6 @@
 
 - 🧠 Exploring **machine learning** and learning by building
 - 🎨 Mixing **computer vision, graphics, and creative coding** into playful experiments
-- 🌱 Currently sharpening my ML fundamentals through hands-on exercises
 - 💡 Always up for a weird idea that starts with *"what if…?"*
 
 ---
