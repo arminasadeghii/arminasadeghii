@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/armina-sadeghi-776207320">
   <img src="https://img.shields.io/badge/LinkedIn-Armina_Sadeghi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=arminasadeghii&label=Profile+views&color=a78bfa&style=for-the-badge" alt="Profile views" />
+
 
 </div>
 
